@@ -4,7 +4,7 @@
 
 ## Stats
 
-[![Cbdy's github stats](https://github-readme-stats.vercel.app/api?username=septs)](https://github.com/anuraghazra/github-readme-stats)
+[![Cbdy's github stats](https://github-readme-stats.vercel.app/api?username=cbdyzj)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skill
 
