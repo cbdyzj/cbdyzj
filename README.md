@@ -9,7 +9,7 @@
 ## Skill
 
 - Java/JavaScript Developer
-- Software designer
+- Software Designer
 
 ## Links
 
