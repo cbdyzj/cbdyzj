@@ -1,6 +1,6 @@
 # Cbdy
 
-> Keep it simple, stupid. Wish you can break through the shackles of brackets and find the spirit that lives in the computer. 
+> Everything should be made as simple as possible, but not simpler.
 
 ## Stats
 
