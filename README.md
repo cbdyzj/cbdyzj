@@ -6,10 +6,8 @@
 
 [![Cbdy's github stats](https://github-readme-stats.vercel.app/api?username=cbdyzj)](https://github.com/anuraghazra/github-readme-stats)
 
-## Skills
-
-- Java/JavaScript Developer
 - Software Designer
+- Java/JavaScript Developer
 
 ## Links
 
