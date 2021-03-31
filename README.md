@@ -2,12 +2,12 @@
 
 > Everything should be made as simple as possible, but not simpler.
 
+- Software Designer
+- Java/JavaScript Developer
+
 ## Stats
 
 [![Cbdy's github stats](https://github-readme-stats.vercel.app/api?username=cbdyzj)](https://github.com/anuraghazra/github-readme-stats)
-
-- Software Designer
-- Java/JavaScript Developer
 
 ## Links
 
