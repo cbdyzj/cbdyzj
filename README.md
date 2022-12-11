@@ -6,4 +6,4 @@
 ## Links
 
 - Telegram: [@cbdyzj](http://t.me/cbdyzj)
-- Email: [cbdyzj@jianzhao.org](mailto:cbdyzj@jianzhao.org)
+- Email: [cbdyzj@gmail.com](mailto:cbdyzj@gmail.com)
